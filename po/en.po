@@ -1,0 +1,82 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Agustin Zubiaga <aguz@sugarlabs.org>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TerronesWeeper 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-03 21:37-0300\n"
+"PO-Revision-Date: 2012-05-03 21:43-0300\n"
+"Last-Translator: Daniel Francis <francis@sugarlabs.org>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: activity/activity.info:2 terronesweeper.py:447
+msgid "TerronesWeeper"
+msgstr "TerronesWeeper"
+
+#: dialogs.py:93
+msgid "Done"
+msgstr "Done"
+
+#: dialogs.py:118 dialogs.py:134
+msgid "Score"
+msgstr "Score"
+
+#: dialogs.py:128
+msgid "Date and Time"
+msgstr "Date and Time"
+
+#: terronesweeper.py:331
+msgid "Easy"
+msgstr "Easy"
+
+#: terronesweeper.py:332
+msgid "Medium"
+msgstr "Medium"
+
+#: terronesweeper.py:333
+msgid "Difficult"
+msgstr "Difficult"
+
+#: terronesweeper.py:342
+msgid "Difficulty"
+msgstr "Difficulty"
+
+#: terronesweeper.py:393 terronesweeper.py:406
+msgid "Time"
+msgstr "Time"
+
+#: terronesweeper.py:394 terronesweeper.py:429 terronesweeper.py:435
+msgid "Flags"
+msgstr "Flags"
+
+#: terronesweeper.py:420
+msgid "CONGRATULATIONS"
+msgstr "CONGRATULATIONS"
+
+#: terronesweeper.py:421
+msgid "You won"
+msgstr "You won"
+
+#: terronesweeper.py:424
+msgid "GAME OVER"
+msgstr "GAME OVER"
+
+#: terronesweeper.py:424
+msgid "You lost"
+msgstr "You lost"
+
+#: terronesweeper.py:491
+msgid "presentation.png"
+msgstr "presentation.png"
+
+#: terronesweeper.py:498
+msgid "Click on the terron of the toolbar to start."
+msgstr "Click on the terrón of the toolbar to start."

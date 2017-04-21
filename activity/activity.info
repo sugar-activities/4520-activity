@@ -1,0 +1,8 @@
+[Activity]
+name = TerronesWeeper
+activity_version = 2
+show_launcher = 1
+bundle_id = org.ceibaljam.terronesweeper
+exec = sugar-activity terronesweeper.TerronesWeeper -s
+icon = activity-terronesweeper
+license = GPLv3+
